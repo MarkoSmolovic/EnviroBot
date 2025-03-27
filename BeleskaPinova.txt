@@ -1,0 +1,11 @@
+Pinovi na Arduinu
+
+const int buzzerPin = 11;
+const int redPin = 12;
+const int greenPin = 13;
+const int bluePin = 7;
+rame.attach(5);
+zglob1.attach(6);
+zglob2.attach(9);
+hvataljka.attach(2);  
+base.attach(3);

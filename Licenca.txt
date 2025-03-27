@@ -1,0 +1,19 @@
+EnviroBot License
+
+Copyright (c) 2025 Smolovic Marko
+
+Dozvoljava se svakom korisniku koji dobije kopiju ovog softvera i pridruženih dokumentacionih fajlova
+(u daljem tekstu "EnviroBot") da bez ograničenja koristi, kopira, menja, spaja, objavljuje, distribuira,
+daje podlicencu i/ili prodaje kopije Softvera i da dozvoli drugima kojima je Softver dostavljen da to rade,
+pod uslovom da se ispune sledeći uslovi:
+
+Gore navedeni tekst autorskih prava i ovaj tekst dozvole moraju biti uključeni u sve kopije
+ili značajnije delove Softvera.
+SOFTVER SE DAJE "KAO ŠTO JE", BEZ IKAKVIH GARANCIJA, BILO IZRAŽENIH ILI PODRAZUMEVANIH,
+UKLJUČUJUĆI, ALI NE OGRANIČAVAJUĆI SE NA GARANCIJE TRGOVINSKE VREDNOSTI,
+PRIKLADNOSTI ZA ODREĐENU NAMENU I NEKRŠENJE PRAVA.
+
+U NIKAKVOM SLUČAJU AUTORI ILI VLASNICI AUTORSKIH PRAVA NEĆE BITI ODGOVORNI ZA BILO KAKVE ZAHTEVE,
+ŠTETE ILI DRUGE ODGOVORNOSTI, BILO DA JE U PITANJU UGOVOR, DELIKT ILI NA BILO KOJI DRUGI NAČIN,
+KOJI PROIZILAZE IZ, ILI SU U VEZI SA SOFTVEROM ILI NJEGOVOM UPOTREBOM ILI DRUGIM OBRAĆANJEM SOFTVERU.
+
